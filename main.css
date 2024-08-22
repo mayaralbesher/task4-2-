@@ -1,0 +1,27 @@
+.main{
+    text-align: center;
+}
+
+p{
+    color: grey;
+}
+.end{
+    color: grey;
+    text-align: center;
+    
+    
+}
+.head{
+   p{
+        color: grey;
+    }
+}
+.body{
+    float: left;
+    width: 33%;
+    height: 50%;
+}
+#2{
+    clear: both;
+    width: 50px;
+}
